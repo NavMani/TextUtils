@@ -28,7 +28,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://NavMani.github.io/TextUtils",
+  "homepage": ".",
   "browserslist": {
     "production": [
       ">0.2%",
